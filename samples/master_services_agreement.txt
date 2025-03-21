@@ -1,0 +1,73 @@
+MASTER SERVICES AGREEMENT	1
+This Master Services Agreement (“Agreement”) is entered into as of March 19, 2025, by and between:	1
+AlphaTech Solutions Inc., a Delaware corporation with its principal place of business at 1000 Enterprise Blvd, San Francisco, CA 94105 (“Company”),	1
+and Innovate Consulting LLC, a limited liability company registered in New York, with its principal office at 500 Strategy Avenue, New York, NY 10001 (“Consultant”).	1
+1. SCOPE OF SERVICES	59
+1.1 Services Provided: Consultant shall provide technology consulting services, including but not limited to:	59
+IT infrastructure assessment	59
+Software architecture design	59
+Data security compliance	59
+1.2 Deliverables: Consultant agrees to submit all deliverables in electronic format by the deadlines specified in each Statement of Work (SOW).	89
+1.3 Modifications: Any changes to the scope must be approved in writing by both parties.	60
+2. COMPENSATION & PAYMENT TERMS	42
+2.1 Fees & Expenses:	68
+Consultant shall be compensated at a rate of $150 per hour.	42
+Any out-of-pocket expenses require prior written approval from the Company.	42
+2.2 Invoice Submission:	68
+Consultant shall submit monthly invoices.	68
+Payments shall be made within 30 days of invoice receipt.	68
+2.3 Late Payments:	68
+Interest shall accrue at 1.5% per month for any delayed payments.	68
+3. CONFIDENTIALITY	20
+3.1 Confidential Information: Both parties acknowledge that they may have access to proprietary or sensitive information, including:	20
+Trade secrets	20
+Business plans	20
+Client lists	20
+3.2 Non-Disclosure: Each party shall maintain strict confidentiality and not disclose such information to any third party for a period of 5 years.	20
+3.3 Return of Materials: Upon termination of this Agreement, Consultant shall return or destroy all Company confidential materials.	20
+4. INTELLECTUAL PROPERTY RIGHTS	53
+4.1 Ownership:	53
+All intellectual property developed under this Agreement shall be the exclusive property of the Company.	53
+Consultant grants a non-exclusive, royalty-free license to use any pre-existing Consultant-owned materials incorporated into deliverables.	53
+4.2 Third-Party IP:	53
+Consultant represents that any materials provided do not infringe on any third-party intellectual property rights.	53
+5. TERM & TERMINATION	88
+5.1 Term:	88
+This Agreement shall commence on March 19, 2025, and remain in effect for a period of 2 years, unless earlier terminated.	88
+5.2 Termination for Convenience:	88
+Either party may terminate this Agreement upon 30 days’ written notice.	88
+5.3 Termination for Cause:	88
+Company may terminate the Agreement immediately if:	88
+Consultant fails to meet deadlines,	88
+Engages in fraud or misconduct,	88
+Breaches confidentiality obligations.	88
+6. INDEMNIFICATION & LIABILITY	49
+6.1 Indemnification:	49
+Consultant shall indemnify, defend, and hold harmless Company from any claims arising out of negligence, fraud, or intellectual property violations.	49
+6.2 Limitation of Liability:	49
+Neither party shall be liable for indirect, consequential, or punitive damages.	49
+Total liability shall not exceed the total fees paid to Consultant in the last 6 months.	49
+7. GOVERNING LAW & DISPUTE RESOLUTION	47
+7.1 Applicable Law:	47
+This Agreement shall be governed by the laws of the State of California.	47
+7.2 Dispute Resolution:	47
+Disputes shall first be resolved through good faith mediation.	47
+If mediation fails, disputes shall be resolved through binding arbitration in San Francisco, CA.	47
+8. MISCELLANEOUS	59
+8.1 Force Majeure:	59
+Neither party shall be liable for failure to perform due to events beyond their control (e.g., natural disasters, pandemics, government actions).	59
+8.2 Amendments:	59
+Any modifications to this Agreement must be made in writing and signed by both parties.	59
+8.3 Assignment:	59
+Neither party may assign its rights or obligations without prior written consent.	59
+8.4 Entire Agreement:	59
+This Agreement constitutes the entire understanding between the parties.	59
+9. SIGNATURES	1
+Tech Solutions Inc.	1
+By: ___________________	1
+Title: _______________	1
+Date: _______________	1
+Innovate Consulting LLC	1
+By: ___________________	1
+Title: _______________	1
+Date: _______________	1
