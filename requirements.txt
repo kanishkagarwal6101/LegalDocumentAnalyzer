@@ -1,0 +1,8 @@
+transformers
+datasets
+evaluate
+scikit-learn
+PyPDF2
+nltk
+torch
+rouge_score
