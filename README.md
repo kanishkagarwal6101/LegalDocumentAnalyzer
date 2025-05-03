@@ -19,7 +19,7 @@ We fine-tune and compare the following models:
 ## 📚 Datasets  
 - **Unfair_TOS** – Sentence-level labels focused
 solely on unfairness detection.  
-- **LexGLUE** – Legal text classification dataset.  
+- **LexGLUE - LEDGAR** – Legal text classification dataset.  
 - **EUR-Lex** – European Union legal documents annotated with categories.  
 
 ## 🛠️ Requirements  
