@@ -6,13 +6,8 @@ This repository contains code for the **Legal Document Analyzer**, an NLP-based 
 Legal documents are often lengthy, complex, and filled with technical jargon, making them difficult to understand for both legal professionals and the general public. The Legal Document Analyzer automates the process of:  
 
 - **Extracting** key clauses.  
-- **Summarizing** long legal documents.  
+- **Summarizing** long legal clauses.  
 - **Classifying** sections into predefined categories:  
-  - Obligations  
-  - Termination clauses  
-  - Confidentiality agreements  
-  - Payment terms  
-  - Governing law provisions  
 
 ## 🧠 Models  
 We fine-tune and compare the following models:  
@@ -22,11 +17,17 @@ We fine-tune and compare the following models:
 - **Longformer** – Optimized for long document processing.  
 
 ## 📚 Datasets  
-- **CUAD** – Over 13,000 labeled clauses across various contract types.  
+- **Unfair_TOS** – Sentence-level labels focused
+solely on unfairness detection.  
 - **LexGLUE** – Legal text classification dataset.  
 - **EUR-Lex** – European Union legal documents annotated with categories.  
 
 ## 🛠️ Requirements  
-- Python 3.8+  
-- PyTorch 1.7+  
-- Transformers 4.3/4.4 (HuggingFace)
+-transformers
+-datasets
+-evaluate
+-scikit-learn
+-PyPDF2
+-nltk
+-torch
+-rouge_score
